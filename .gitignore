@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+env/
+test/
+train/
+sample_submission.csv
 # Distribution / packaging
 .Python
 build/
